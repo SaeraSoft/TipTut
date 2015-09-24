@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipTut</string>
+
+    <!-- Main Activity -->
+    <string name="main_tip_text">How much tip?</string>
+    <string name="main_percentage">%</string>
+    <string name="main_amount_text">How much total?</string>
+    <string-array name="main_concurrency_array">
+        <item>$</item>
+        <item>€</item>
+        <item>£</item>
+    </string-array>
+    <string name="main_calculate">Calculate</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
